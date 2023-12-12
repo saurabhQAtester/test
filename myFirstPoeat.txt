@@ -2,7 +2,7 @@ public class demo{
 
 public static void main(String[] args]){
 System.out.println("Tum jo aaye jindagi mai baat ban gyi")
-System.out.println("Naiyoo lagda dil tere bina");
+
 
 }
 
